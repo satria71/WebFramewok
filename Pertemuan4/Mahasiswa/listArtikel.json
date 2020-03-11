@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Lomba Baris Politeknik Negeri Malang",
+      "body": "Jumat (24/1/2020), Jurusan JTI bla... bla... bla... bla... bla... bla... bla... bla... bla... bla... "
+    },
+    {
+      "userId": 1,
+      "id": 1583398955994,
+      "title": "Upacara Hari Kemerdekaan Republik Indonesia",
+      "body": "Kegiatan akan dilaksanakan pukul 07.00 di Lap. Mini Soccer Politeknik Negeri Malang"
+    },
+    {
+      "userId": 1,
+      "id": 1583398985173,
+      "title": "Kegiatan Amal Politeknik Negeri Malang",
+      "body": "Kegiatan akan dilaksanakan pukul 07.00 di Desa ..."
+    },
+    {
+      "userId": 1,
+      "id": 1583400649595,
+      "title": "Memperingati Hari Pendidikan",
+      "body": "Politeknik Negeri Malang akan memperingati hari pendidikan..."
+    },
+    {
+      "userId": 1,
+      "id": 1583400828773,
+      "title": "Politeknik Negeri Malang Memperingati Hari Raya Idul Adha",
+      "body": "Peringatan Hari Raya Kurban Politeknik Negeri Malang"
+    },
+    {
+      "userId": 1,
+      "id": 1583401768820,
+      "title": "Politeknik Negeri Malang",
+      "body": "Peringatan Hari Raya Idul Fitri Politeknik Negeri Malang"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
